@@ -1,13 +1,20 @@
 body {
     background-color: #e9eaf7;
     font-family: "Ubuntu", "Arial", sans-serif;
+    line-height: 7px;
 }
 
-.navbar {
+nav {
     font-size: 18px;
     background-color: #b5baf7;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
 }
 
 .jumbotron {
+    background-color: #e3e5fd;
+}
+
+.accordion {
     background-color: #e3e5fd;
 }
