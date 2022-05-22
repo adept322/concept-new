@@ -1,0 +1,13 @@
+body {
+    background-color: #e9eaf7;
+    font-family: "Ubuntu", "Arial", sans-serif;
+}
+
+.navbar {
+    font-size: 18px;
+    background-color: #b5baf7;
+}
+
+.jumbotron {
+    background-color: #e3e5fd;
+}
