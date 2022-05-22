@@ -1,2 +1,1 @@
-# conceptNew
-Всякая хрень
+# concept-new
