@@ -1,7 +1,13 @@
 body {
     background-color: #e9eaf7;
     font-family: "Ubuntu", "Arial", sans-serif;
-    line-height: 7px;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+main {
+    flex: 1;
 }
 
 nav {
@@ -11,10 +17,11 @@ nav {
     border-bottom-right-radius: 0;
 }
 
-.jumbotron {
+.accordion {
     background-color: #e3e5fd;
 }
 
-.accordion {
-    background-color: #e3e5fd;
+footer {
+    height: 20;
+    background-color: #b3b3b3;
 }
